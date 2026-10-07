@@ -1,30 +1,6 @@
-# Technical Writing blog( samples)
-
-Welcome! This repo contains easy-to-follow:  
-
-- **Tutorials**  
-- **User guides**  
-- **Articles**  
-- **And manuals about**
-
-1. **front-end web development** 
-2. **Back-end web development**  
-3. **Different categories of software overviews and functionalities**  
-4. **Tips on how to handle issues in OS (Operating Systems)**  
-
-Each is broken down into tables of content that you can reach out to and obtain what you want.
-
-
-
 ## Front-end web-develop
 
-
-## Back-end Web-developmemt
-
-
-
-## Software Overviews/ functionality
-
+## Back-end Tools
 #### Memphis.dev
 - [Getting Started with Memphis](memphis-dev/getting-started-with-memphis.md)
 - [Memphis vs. Apache Kafka](memphis-dev/memphis-vs-kafka.md)
@@ -38,9 +14,6 @@ Each is broken down into tables of content that you can reach out to and obtain 
 - [Ubuntu Setup Guide](linux/ubuntu-setup-guide.md)
 - [Useful Terminal Shortcuts](linux/terminal-shortcuts.md)
 
-
-
-These writings are intended to help developers and companies understand tools quickly and clearly.
 
 ## About Me
 
